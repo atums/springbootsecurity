@@ -1,7 +1,6 @@
 package com.apys.learning.springbootsecurity.model;
 
 import lombok.Data;
-import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
 
 import javax.persistence.*;
 
